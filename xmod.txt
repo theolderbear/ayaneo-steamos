@@ -1,0 +1,10 @@
+ 
+sudo pacman -U xorg-xmodmap-1.0.11-1-x86_64.pkg.tar.zst
+sudo pacman -U lib32-glibc-2.37-3-x86_64.pkg.tar.zst glibc-2.37-3-x86_64.pkg.tar.zst
+sudo pacman -U xkeycaps-2.47-3-x86_64.pkg.tar.zst
+
+quick menu command + d -> rctrl + 2
+steam      lctrl + 12 -> rctrl + 1
+
+sudo pacman -U rust-1\ 1.71.0-1-x86_64.pkg.tar.zst
+git clone https://github.com/wez/evremap.git
