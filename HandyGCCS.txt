@@ -1,0 +1,10 @@
+git clone https://github.com/ShadowBlip/HandyGCCS.git
+cd HandyGCCS/
+
+sudo cp ~/workspace/ayaneo-steamos/pacman.conf /etc/pacman.conf
+
+sudo pacman -U ~/workspace/ayaneo-steamos/lib/lib32-glibc-2.37-3-x86_64.pkg.tar.zst ~/workspace/ayaneo-steamos/lib/glibc-2.37-3-x86_64.pkg.tar.zst
+
+sudo make install
+
+
