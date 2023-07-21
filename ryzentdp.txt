@@ -1,0 +1,11 @@
+curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh | sh
+
+sudo mv PowerControl/ ~/homebrew/plugins/
+
+chmod +x ryzentdp.sh
+cp ./lib/ryzenadj /usr/bin
+sudo cp ./lib/ryzenadj /usr/bin
+sh ryzentdp.sh
+sudo sh ryzentdp.sh
+
+
