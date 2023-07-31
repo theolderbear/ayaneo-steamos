@@ -1,8 +1,0 @@
-# Apply this configuration to two keyboards (if connected)
-- keyboards: ["AT Translated Set 2 keyboard"]
-
-  keymap:
-    leftmeta: leftctrl
-    f12: 1
-    d: 2
-  # Specify layered configurations (much similar to fn+F keys)

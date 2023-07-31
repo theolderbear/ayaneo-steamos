@@ -1,8 +1,0 @@
-[Unit]
-Description=Remap ayaneo keys
-
-[Service]
-ExecStart=/home/theolderbear/workplace/ayaneo-steamos/aya-keys.sh
-
-[Install]
-WantedBy=default.target
