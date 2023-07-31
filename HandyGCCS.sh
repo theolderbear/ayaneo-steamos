@@ -11,7 +11,8 @@ sudo pip install build
 sudo pip install installer
 
 sudo ./build.sh
+sudo cp /etc/handygccs/handygccs.conf /etc/handygccs/handygccs.conf.backup
 sudo cp ~/workspace/ayaneo-steamos/handygccs.conf /etc/handygccs/handygccs.conf
 sudo systemctl enable --now handycon
 
-#cat /etc/handygccs/handygccs.conf
+cat /etc/handygccs/handygccs.conf
