@@ -1,0 +1,1 @@
+cat /etc/os-release | grep VARIANT_ID | cut -d '"' -f 2):
