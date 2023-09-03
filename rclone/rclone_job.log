@@ -1,0 +1,42 @@
+
+2023-09-03 15:54:50 ERROR : ryujinx/saves: Listing error: symlink: stat /run/media/mmcblk0p1/Emulation/saves/ryujinx/saves: no such file or directory
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.2s
+2023-09-03 15:54:50 ERROR : ryujinx/saveMeta: Listing error: symlink: stat /run/media/mmcblk0p1/Emulation/saves/ryujinx/saveMeta: no such file or directory
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (no need to retry)
+Elapsed time:         1.2sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (no need to retry)
+Elapsed time:         1.4sTransferred:   	         11 B / 11 B, 100%, 0 B/s, ETA -
+Errors:                 2 (no need to retry)
+Checks:                11 / 11, 100%
+Transferred:            0 / 1, 0%
+Elapsed time:         1.9s
+Transferring:
+ *                          dolphin/.last_upload:100% /11, 0/s, -Transferred:   	         11 B / 11 B, 100%, 0 B/s, ETA -
+Errors:                 2 (no need to retry)
+Checks:                22 / 22, 100%
+Transferred:            0 / 1, 0%
+Elapsed time:         2.4s
+Transferring:
+ *                          dolphin/.last_upload:100% /11, 0/s, -Transferred:   	         11 B / 11 B, 100%, 10 B/s, ETA 0s
+Errors:                 2 (no need to retry)
+Checks:                33 / 33, 100%
+Transferred:            0 / 1, 0%
+Elapsed time:         2.9s
+Transferring:
+ *                          dolphin/.last_upload:100% /11, 10/s, 0sTransferred:   	         11 B / 11 B, 100%, 10 B/s, ETA 0s
+Errors:                 2 (no need to retry)
+Checks:                39 / 39, 100%
+Transferred:            1 / 1, 100%
+Elapsed time:         3.4s
+2023-09-03 15:54:52 ERROR : Can't retry any of the errors - not attempting retries
+Transferred:   	         11 B / 11 B, 100%, 5 B/s, ETA 0s
+Errors:                 2 (no need to retry)
+Checks:                41 / 41, 100%
+Transferred:            1 / 1, 100%
+Elapsed time:         3.6sTransferred:   	         11 B / 11 B, 100%, 5 B/s, ETA 0s
+Errors:                 2 (no need to retry)
+Checks:                41 / 41, 100%
+Transferred:            1 / 1, 100%
+Elapsed time:         3.6s
